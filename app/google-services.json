@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "772275356548",
+    "project_id": "testing-b84a3",
+    "storage_bucket": "testing-b84a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772275356548:android:14f93699162ebf4df913d1",
+        "android_client_info": {
+          "package_name": "com.saba.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772275356548-admad0i81aem6r86ea8lebnalu6575n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saba.testing",
+            "certificate_hash": "199876236ff8dbb3225ce89a40d75e8a1dff2cf1"
+          }
+        },
+        {
+          "client_id": "772275356548-1njs2sqd0e3o9uf7ilmcdig3d91g4e5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9705Klt1B2Qlwi3ZzTrfL0nG4q_Errio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772275356548-1njs2sqd0e3o9uf7ilmcdig3d91g4e5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
